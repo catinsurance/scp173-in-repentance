@@ -1,0 +1,5 @@
+<sounds root="sounds/">
+    <sound name="NeckSnap">
+        <sample weight="1" path="neck_snap.wav" />
+    </sound>
+</sounds>

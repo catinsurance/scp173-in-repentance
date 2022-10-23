@@ -1,2 +1,3 @@
-local mod = RegisterMod("test mod", 1)
+local mod = RegisterMod("spooky", 1)
 
+include("spooky.Statue")(mod)
